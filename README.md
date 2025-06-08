@@ -15,12 +15,6 @@ Easily manage your daily tasks with a responsive and minimalist user interface.
 
 ---
 
-## 🔗 Live Demo
-
-👉 [View Live](https://pravesh4189.github.io/TODOAPP/)
-
----
-
 ## 🛠️ Tech Stack
 
 - **React.js** – Frontend framework
@@ -33,4 +27,4 @@ Easily manage your daily tasks with a responsive and minimalist user interface.
 ### 1️⃣ Clone the repository
 
 bash
-git clone https://pravesh4189.github.io/TODOAPP/
+git clone https://todoapp-weld-three.vercel.app/
